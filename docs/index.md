@@ -1,4 +1,4 @@
-![portada 20vanillajsprojects](/images/portada.png)
+![portada 20vanillajsprojects](images/portada.png)
 
 ### Aprende JavaScript construyendo 20 proyectos reales en 20 días
 
